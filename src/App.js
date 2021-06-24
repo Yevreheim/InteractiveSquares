@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import Squares from './components/squares/SquareAnimations';
+
 
 function App() {
   return (
